@@ -1,0 +1,6 @@
+D:\changyutongy_git\MagicMath\MagicMath\bin\Debug\MagicMath.exe.config
+D:\changyutongy_git\MagicMath\MagicMath\bin\Debug\MagicMath.exe
+D:\changyutongy_git\MagicMath\MagicMath\bin\Debug\MagicMath.pdb
+D:\changyutongy_git\MagicMath\MagicMath\obj\Debug\MagicMath.csprojResolveAssemblyReference.cache
+D:\changyutongy_git\MagicMath\MagicMath\obj\Debug\MagicMath.exe
+D:\changyutongy_git\MagicMath\MagicMath\obj\Debug\MagicMath.pdb
