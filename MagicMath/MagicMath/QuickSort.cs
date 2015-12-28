@@ -20,7 +20,7 @@ namespace MagicMath
 												int x = left;
 												int y = right;
 												while (x < y)
-												{ 
+												{
 																while (x < y && ints[y] >= temp)
 																				y--;
 
